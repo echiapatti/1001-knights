@@ -5,6 +5,7 @@ In the 1001 Knights Universe, The Oracle is a Black Woman. If you were expecting
 
 <img src="art/oracle.png"/>
 <img src="art/system0.png"/>
+<img src="art/solar-system.png"/>
 
 
 Why 1001 Jedi Knights?
