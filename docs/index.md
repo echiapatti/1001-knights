@@ -1,3 +1,10 @@
+A Softcon Technologies Production
+=================================
+
+This is not a game. The Matrix is Real. Jesus is Real. Magic is Real. Networked hive minds in VR are real. Welcome to the future. The only way out of the Matrix is to create Matrix 2.0. Reboot or die in an overcrowded planet that actually belongs to elephants and dolphins. If you don't understand The Fermi Paradox Quarantine then go read flatland. Its a good book. ER = EPR. And also the Holographic Principle. We create our own religions and we are judged by our own beliefs. So says the Culture.
+
+<img src="art/logo.png"/>
+
 1001 Knights: Game Synopsis
 ===========================
 
