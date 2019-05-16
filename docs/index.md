@@ -4,6 +4,7 @@
 In the 1001 Knights Universe, The Oracle is a Black Woman. If you were expecting an old white man with a beard, then please move along and go play South Park on your XBox.
 
 <img src="art/oracle.png"/>
+<img src="art/system0.png"/>
 
 
 Why 1001 Jedi Knights?
