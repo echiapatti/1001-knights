@@ -11,7 +11,13 @@ In the 1001 Knights Universe, The Oracle is a Black Woman. If you were expecting
 Why 1001 Jedi Knights?
 ----------------------
 
-There is only 1 true master of all masters (head of the Jedi Order). There is room in the game for 1000 other masters maximum.
+There is only 1 true master of all masters (head of the Jedi Order).
+
+Step 1 - If you want to be a Jedi, then go and build the Jedi Temple in Neo Tokyo using Minecraft lego blocks. If you don't get the Neo Matrix referenece, then play more South Park and go back to square one.
+
+<img src="neo-tokyo"/>
+
+There is room in the game for 1000 other masters maximum.
 
 1001 Knights is a word play on the Classic Persian Fairy Tale "Alf Layla wa Layla", in which a princess avoids execution by telling the King an intereseting story overnight, keeping herself alive by revealing the ending to each of the 1001 stories in the next morning.
 
