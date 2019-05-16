@@ -15,7 +15,7 @@ There is only 1 true master of all masters (head of the Jedi Order).
 
 Step 1 - If you want to be a Jedi, then go and build the Jedi Temple in Neo Tokyo using Minecraft lego blocks. If you don't get the Neo Matrix referenece, then play more South Park and go back to square one.
 
-<img src="neo-tokyo.png"/>
+<img src="art/neo-tokyo.png"/>
 
 There is room in the game for 1000 other masters maximum.
 
