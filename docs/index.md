@@ -30,6 +30,14 @@ There is room in the game for 1000 other masters maximum.
 
 1001 Knights combines aspects of Star Wars and Minecraft. The game has two modes, planet mode and space mode.
 
+You are not Alone
+-----------------
+
+Using Galactic Credits, you can buy various forms of voice-activated AI to help you with you build Jedi Driods (think R2D2 and CP30), but Minecraft versions. Here is the math ...
+
+<img src="art/robot-arm.png"/>
+<img src="art/semantic-parsing.png"/>
+
 Gameplay modes
 --------------
 
@@ -42,7 +50,6 @@ In planet mode, you can collobarate with other planet builders to create your id
 <img src="art/planet3.png"/>
 <img src="art/planets1.png"/>
 <img src="art/planets2.png"/>
-
 
 The Kardashev Scale
 -------------------
@@ -60,6 +67,8 @@ For them, nuclear fusion is probably child's play as well as harnessing the anti
 
 Try to think of something like the planet Coruscant in the Star Wars Universe (but without the larger Republic/Empire), or the great works of Asimov. 
 
+<img src="art/system1.png"/>
+
 A Type II Civilisation
 ----------------------
 
@@ -70,6 +79,8 @@ These hypothetical devices would completely surround a star and be able to colle
 They would also likely have colonized multiple planets in their local solar system. For them, extinction is a long-lost fantasy. 
 
 Little, if anything, would be able to kill them off, save themselves or a massive inter-species war.
+
+<img src="art/system2.png"/>
 
 A Type III Civilisation
 -----------------------
@@ -84,3 +95,4 @@ But they would still need to obey the laws of physics. Travel between each corne
 
 Needless to say, this would be a people who have really made it - so to speak.
 
+<img src="art/system3.png"/>
