@@ -1,6 +1,9 @@
 1001 Knights: Game Synopsis
+===========================
 
 In the 1001 Knights Universe, God is a Black Woman. If you were expecting an old white man with a beard, then please move along and go play South Park on your XBox.
+
+<img src="xxx.png"/>
 
 
 Why 1001 Jedi Knights?
