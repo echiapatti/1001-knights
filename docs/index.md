@@ -37,6 +37,13 @@ Imagine Mine Craft (Planet Mode) mixed with Star Wars (Space Mode).
 
 In planet mode, you can collobarate with other planet builders to create your ideal world with farms, cities and advances defefences. The game operates on the Kardeshev scale:
 
+<img src="art/planet1.png"/>
+<img src="art/planet2.png"/>
+<img src="art/planet3.png"/>
+<img src="art/planets1.png"/>
+<img src="art/planets2.png"/>
+
+
 The Kardashev Scale
 -------------------
 
